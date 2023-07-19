@@ -1,0 +1,8 @@
+venv/*
+imgs/*
+logs/*
+safety-gym/
+__pycache__
+.DS_Store
+run.sh
+.vscode/*
